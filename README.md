@@ -4,7 +4,7 @@ Welcome to my GitHub profile ! My name is Fabio Gong-Omonte and I study @ McGill
 
 ### About me 😄
 
-Passionate about using programming to make my life easier, which is what lead me to create Mico, my video editing app. My interests include (but aren't limited to) gaming, kpop, dancing and a bit of chess ♟️
+Passionate about using programming to make my life easier, which is what lead me to create SetGen, an app that uses intricate algorithms to sort through a list of performances to generate setlists that give as many breaks to dancers. My interests include (but aren't limited to) gaming, kpop, dancing and a bit of chess ♟️
 
 ### Work experience 💻
 
